@@ -22,7 +22,9 @@ TBD
 TBD
 
 ## Lenovo
-TBD
+| Máquina | Ethernet | Wi-Fi | Bluetooth | Trackpad | USB | 
+| --- | :---: | :---: | :---: | :---: | :---: | 
+| Yoga 510-14ISK i7 | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Samsung
 TBD
