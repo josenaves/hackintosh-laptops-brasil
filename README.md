@@ -2,11 +2,10 @@
 Lista dos laptops fabricados no Brasil mais amigáveis para se instalar MacOS (Hackintosh)
 
 ## Fabricantes
-- Acer
+- [Acer](#acer)
 - [Dell](#dell)
-- HP
-- Lenovo
-
+- [HP](#hp)
+- [Lenovo](#lenovo)
 
 ## Acer
 TBD
@@ -20,6 +19,7 @@ TBD
 
 ## HP
 TBD
+
 
 ## Lenovo
 TBD
