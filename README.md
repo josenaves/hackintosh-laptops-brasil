@@ -3,10 +3,14 @@ Lista dos laptops fabricados no Brasil mais amigáveis para se instalar MacOS (H
 
 ## Fabricantes
 - [Acer](#acer)
+- [Asus](#asus)
 - [Dell](#dell)
 - [HP](#hp)
 - [Lenovo](#lenovo)
 - [Samsung](#samsung)
+
+## Asus
+TBD
 
 ## Acer
 TBD
